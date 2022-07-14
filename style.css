@@ -1,0 +1,68 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#top {
+    text-align: center;
+}
+
+#logo{
+    color: white;
+    background-color: rgb(255, 123, 0);
+    display: inline-block;
+    font-size: 100px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 16px;
+}
+
+#logo-name{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 16px;
+    margin-bottom: 60px;
+}
+
+#navigation a {
+    color: grey;
+    padding: 8px;
+    margin-top: 70px;
+}
+
+#navigation a:hover{
+    color: rgb(255, 123, 0);
+}
+
+#image img {
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 16px;
+}
+
+#main {
+    max-width: 800px;
+}
+
+#services {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+#price {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+#contact {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+#footer {
+    text-align: center;
+    color: grey;
+    margin-top: 80px;
+}
